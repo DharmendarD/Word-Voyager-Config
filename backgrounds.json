@@ -1,0 +1,14 @@
+{
+    "default": [
+        "bg1.png",
+        "bg2.png"
+    ],
+    "en": {
+        "1": "en_level1.png",
+        "2": "en_level2.png"
+    },
+    "es": {
+        "1": "es_level1.png",
+        "2": "es_level2.png"
+    }
+}
