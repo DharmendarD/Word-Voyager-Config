@@ -1,19 +1,445 @@
-{
-    "crossLevels": [
-        {
-            "id": 1,
-            "grid": [
-                [
-                    "c",
-                    "a",
-                    "t"
-                ],
-                [
-                    "d",
-                    "o",
-                    "g"
-                ]
-            ]
-        }
+[
+  {
+    "Id": 1,
+    "Difficulty": 1,
+    "Title": "",
+    "Words": [
+      "NEAT",
+      "EARN",
+      "NOTE",
+      "TORN"
+    ],
+    "WordPlacements": [
+      {
+        "Word": "NEAT",
+        "Row": 0,
+        "Col": 0,
+        "IsAcross": true
+      },
+      {
+        "Word": "EARN",
+        "Row": 3,
+        "Col": 0,
+        "IsAcross": true
+      },
+      {
+        "Word": "NOTE",
+        "Row": 0,
+        "Col": 0,
+        "IsAcross": false
+      },
+      {
+        "Word": "TORN",
+        "Row": 0,
+        "Col": 3,
+        "IsAcross": false
+      }
     ]
-}
+  },
+  {
+    "Id": 2,
+    "Difficulty": 1,
+    "Title": "",
+    "Words": [
+      "ANT",
+      "DEN",
+      "EAT",
+      "DOE",
+      "AND",
+      "TEN",
+      "END",
+      "TOE"
+    ],
+    "WordPlacements": [
+      {
+        "Word": "ANT",
+        "Row": 0,
+        "Col": 0,
+        "IsAcross": true
+      },
+      {
+        "Word": "DEN",
+        "Row": 2,
+        "Col": 0,
+        "IsAcross": true
+      },
+      {
+        "Word": "EAT",
+        "Row": 3,
+        "Col": 3,
+        "IsAcross": true
+      },
+      {
+        "Word": "DOE",
+        "Row": 5,
+        "Col": 3,
+        "IsAcross": true
+      },
+      {
+        "Word": "AND",
+        "Row": 0,
+        "Col": 0,
+        "IsAcross": false
+      },
+      {
+        "Word": "TEN",
+        "Row": 0,
+        "Col": 2,
+        "IsAcross": false
+      },
+      {
+        "Word": "END",
+        "Row": 3,
+        "Col": 3,
+        "IsAcross": false
+      },
+      {
+        "Word": "TOE",
+        "Row": 3,
+        "Col": 5,
+        "IsAcross": false
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "Difficulty": 1,
+    "Title": "",
+    "Words": [
+      "TEN",
+      "DEN",
+      "END",
+      "TON",
+      "NOT"
+    ],
+    "WordPlacements": [
+      {
+        "Word": "TEN",
+        "Row": 0,
+        "Col": 2,
+        "IsAcross": true
+      },
+      {
+        "Word": "DEN",
+        "Row": 2,
+        "Col": 0,
+        "IsAcross": true
+      },
+      {
+        "Word": "END",
+        "Row": 0,
+        "Col": 0,
+        "IsAcross": false
+      },
+      {
+        "Word": "TON",
+        "Row": 0,
+        "Col": 2,
+        "IsAcross": false
+      },
+      {
+        "Word": "NOT",
+        "Row": 0,
+        "Col": 4,
+        "IsAcross": false
+      }
+    ]
+  },
+  {
+    "Id": 4,
+    "Difficulty": 1,
+    "Title": "",
+    "Words": [
+      "COAT",
+      "NOTE",
+      "ACNE",
+      "CAN",
+      "TOE",
+      "ONCE"
+    ],
+    "WordPlacements": [
+      {
+        "Word": "COAT",
+        "Row": 0,
+        "Col": 0,
+        "IsAcross": true
+      },
+      {
+        "Word": "NOTE",
+        "Row": 2,
+        "Col": 0,
+        "IsAcross": true
+      },
+      {
+        "Word": "ACNE",
+        "Row": 4,
+        "Col": 0,
+        "IsAcross": true
+      },
+      {
+        "Word": "CAN",
+        "Row": 0,
+        "Col": 0,
+        "IsAcross": false
+      },
+      {
+        "Word": "TOE",
+        "Row": 0,
+        "Col": 3,
+        "IsAcross": false
+      },
+      {
+        "Word": "ONCE",
+        "Row": 0,
+        "Col": 5,
+        "IsAcross": false
+      }
+    ]
+  },
+  {
+    "Id": 5,
+    "Difficulty": 1,
+    "Title": "",
+    "Words": [
+      "ROAMS",
+      "SONAR",
+      "MANOR",
+      "RANSOM",
+      "SOAR"
+    ],
+    "WordPlacements": [
+      {
+        "Word": "ROAMS",
+        "Row": 0,
+        "Col": 0,
+        "IsAcross": true
+      },
+      {
+        "Word": "SONAR",
+        "Row": 3,
+        "Col": 0,
+        "IsAcross": true
+      },
+      {
+        "Word": "MANOR",
+        "Row": 5,
+        "Col": 0,
+        "IsAcross": true
+      },
+      {
+        "Word": "RANSOM",
+        "Row": 0,
+        "Col": 0,
+        "IsAcross": false
+      },
+      {
+        "Word": "SOAR",
+        "Row": 0,
+        "Col": 4,
+        "IsAcross": false
+      }
+    ]
+  },
+  {
+    "Id": 6,
+    "Difficulty": 1,
+    "Title": null,
+    "Words": [
+      "TEA",
+      "DEN",
+      "NET",
+      "END",
+      "TENANT",
+      "ATE",
+      "AND"
+    ],
+    "WordPlacements": [
+      {
+        "Word": "TEA",
+        "Row": 0,
+        "Col": 2,
+        "IsAcross": true
+      },
+      {
+        "Word": "DEN",
+        "Row": 2,
+        "Col": 0,
+        "IsAcross": true
+      },
+      {
+        "Word": "NET",
+        "Row": 5,
+        "Col": 0,
+        "IsAcross": true
+      },
+      {
+        "Word": "END",
+        "Row": 0,
+        "Col": 0,
+        "IsAcross": false
+      },
+      {
+        "Word": "TENANT",
+        "Row": 0,
+        "Col": 2,
+        "IsAcross": false
+      },
+      {
+        "Word": "ATE",
+        "Row": 0,
+        "Col": 4,
+        "IsAcross": false
+      },
+      {
+        "Word": "AND",
+        "Row": 3,
+        "Col": 5,
+        "IsAcross": false
+      }
+    ]
+  },
+  {
+    "Id": 7,
+    "Difficulty": 1,
+    "Title": null,
+    "Words": [
+      "ORE",
+      "DEN",
+      "REDO",
+      "NUN",
+      "ROD",
+      "RODE",
+      "DONOR",
+      "NON"
+    ],
+    "WordPlacements": [
+      {
+        "Word": "ORE",
+        "Row": 0,
+        "Col": 0,
+        "IsAcross": true
+      },
+      {
+        "Word": "DEN",
+        "Row": 1,
+        "Col": 3,
+        "IsAcross": true
+      },
+      {
+        "Word": "REDO",
+        "Row": 2,
+        "Col": 0,
+        "IsAcross": true
+      },
+      {
+        "Word": "NUN",
+        "Row": 3,
+        "Col": 3,
+        "IsAcross": true
+      },
+      {
+        "Word": "ROD",
+        "Row": 5,
+        "Col": 3,
+        "IsAcross": true
+      },
+      {
+        "Word": "RODE",
+        "Row": 2,
+        "Col": 0,
+        "IsAcross": false
+      },
+      {
+        "Word": "DONOR",
+        "Row": 1,
+        "Col": 3,
+        "IsAcross": false
+      },
+      {
+        "Word": "NON",
+        "Row": 1,
+        "Col": 5,
+        "IsAcross": false
+      }
+    ]
+  },
+  {
+    "Id": 8,
+    "Difficulty": 3,
+    "Title": null,
+    "Words": [
+      "ONE",
+      "ZERO",
+      "OZONE",
+      "ROE",
+      "NOR",
+      "ORE",
+      "ZOO",
+      "ZEN",
+      "EON",
+      "ZONE"
+    ],
+    "WordPlacements": [
+      {
+        "Word": "ONE",
+        "Row": 0,
+        "Col": 0,
+        "IsAcross": true
+      },
+      {
+        "Word": "ZERO",
+        "Row": 1,
+        "Col": 4,
+        "IsAcross": true
+      },
+      {
+        "Word": "OZONE",
+        "Row": 3,
+        "Col": 1,
+        "IsAcross": true
+      },
+      {
+        "Word": "ROE",
+        "Row": 5,
+        "Col": 1,
+        "IsAcross": true
+      },
+      {
+        "Word": "NOR",
+        "Row": 5,
+        "Col": 5,
+        "IsAcross": true
+      },
+      {
+        "Word": "ORE",
+        "Row": 0,
+        "Col": 0,
+        "IsAcross": false
+      },
+      {
+        "Word": "ZOO",
+        "Row": 3,
+        "Col": 2,
+        "IsAcross": false
+      },
+      {
+        "Word": "ZEN",
+        "Row": 1,
+        "Col": 4,
+        "IsAcross": false
+      },
+      {
+        "Word": "EON",
+        "Row": 3,
+        "Col": 5,
+        "IsAcross": false
+      },
+      {
+        "Word": "ZONE",
+        "Row": 0,
+        "Col": 7,
+        "IsAcross": false
+      }
+    ]
+  }
+]
