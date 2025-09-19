@@ -1,11 +1,51 @@
-{
-    "levels": [
-        {
-            "id": 1,
-            "words": [
-                "cat",
-                "dog"
-            ]
-        }
-    ]
-}
+[
+  {
+    "Id": 1,
+    "Title": "NEW",
+    "Words": [
+      "THE",
+      "HAT",
+      "EAT",
+      "TEA",
+      "HEAT"
+    ],
+    "Difficulty": 2
+  },
+  {
+    "Id": 2,
+    "Title": "",
+    "Words": [
+      "EARTH",
+      "HEART",
+      "HATE",
+      "TEAR",
+      "HATER"
+    ],
+    "Difficulty": 2
+  },
+  {
+    "Id": 3,
+    "Title": "",
+    "Words": [
+      "LED",
+      "LAND",
+      "SAND",
+      "LAD",
+      "SALE"
+    ],
+    "Difficulty": 1
+  },
+  {
+    "Id": 4,
+    "Title": "",
+    "Words": [ 
+      "FOREST",
+      "FROST",
+      "FEST",
+      "SET",
+      "REST",
+      "SOFT"
+    ],
+    "Difficulty": 2
+  }
+]
