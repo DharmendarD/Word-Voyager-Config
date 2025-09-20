@@ -10,6 +10,11 @@
             "code": "es",
             "name": "Spanish"
             "supportedModes":[0]
+        },
+        {
+            "code": "ta",
+            "name": "தமிழ்"
+            "supportedModes":[0]
         }
     ]
 }
