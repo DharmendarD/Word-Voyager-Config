@@ -3,11 +3,13 @@
     "supported": [
         {
             "code": "en",
-            "name": "English"
+            "name": "English",
+            "supportedModes":[0,1]
         },
         {
             "code": "es",
             "name": "Spanish"
+            "supportedModes":[0]
         }
     ]
 }
