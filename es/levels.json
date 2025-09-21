@@ -1,11 +1,54 @@
-{
-    "levels": [
-        {
-            "id": 1,
-            "words": [
-                "gato",
-                "perro"
-            ]
-        }
-    ]
-}
+[
+  {
+    "Id": 1,
+    "Title": "NUEVO",
+    "Words": [
+      "UNO",
+      "NUE",
+      "VEN",
+      "EVA",
+      "NUEVO"
+    ],
+    "UniqueLetter": "V",
+    "Difficulty": 2
+  },
+  {
+    "Id": 2,
+    "Title": "CORAZÓN",
+    "Words": [
+      "CORA",
+      "ZONA",
+      "ARCO",
+      "ROCA",
+      "CORAZÓN"
+    ],
+    "UniqueLetter": "Z",
+    "Difficulty": 2
+  },
+  {
+    "Id": 3,
+    "Title": "TIERRA",
+    "Words": [
+      "RITA",
+      "TIRA",
+      "ARTE",
+      "TARÍ",
+      "TIERRA"
+    ],
+    "UniqueLetter": "I",
+    "Difficulty": 1
+  },
+  {
+    "Id": 4,
+    "Title": "BOSQUE",
+    "Words": [
+      "BESO",
+      "QUE",
+      "SUE",
+      "EQUO",
+      "BOSQUE"
+    ],
+    "UniqueLetter": "Q",
+    "Difficulty": 2
+  }
+]
