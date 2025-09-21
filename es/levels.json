@@ -9,7 +9,6 @@
       "EVA",
       "NUEVO"
     ],
-    "UniqueLetter": "V",
     "Difficulty": 2
   },
   {
@@ -22,7 +21,6 @@
       "ROCA",
       "CORAZÓN"
     ],
-    "UniqueLetter": "Z",
     "Difficulty": 2
   },
   {
@@ -35,7 +33,6 @@
       "TARÍ",
       "TIERRA"
     ],
-    "UniqueLetter": "I",
     "Difficulty": 1
   },
   {
@@ -48,7 +45,6 @@
       "EQUO",
       "BOSQUE"
     ],
-    "UniqueLetter": "Q",
     "Difficulty": 2
   }
 ]
