@@ -1,7 +1,7 @@
 {
   "featureToggles": {
-    "adsEnabled": false,
-    "dynamicBackgrounds": false,
+    "adsEnabled": true,
+    "dynamicBackgrounds": true,
     "multiLanguageLevels": true
   },
   "scoreConfig": {
