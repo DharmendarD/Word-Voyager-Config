@@ -1,8 +1,8 @@
 {
   "featureToggles": {
-    "adsEnabled": true,
-    "dynamicBackgrounds": true,
-    "multiLanguageLevels": true
+    "adsEnabled": false,
+    "dynamicBackgrounds": false,
+    "multiLanguageLevels": false
   },
   "scoreConfig": {
     "KnowWordScore": 5,
