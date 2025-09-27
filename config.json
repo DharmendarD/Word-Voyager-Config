@@ -1,6 +1,6 @@
 {
   "featureToggles": {
-    "adsEnabled": false,
+    "adsEnabled": true,
     "dynamicBackgrounds": true,
     "multiLanguageLevels": true
   },
